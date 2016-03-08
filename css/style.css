@@ -1,8 +1,8 @@
 #infoContainer {
-  margin: 50px;
   padding: 15px;
   background-color: #D6D6D6;
   border-radius: 10px;
+  
 }
 #headshot {
   border-radius: 5px;
@@ -13,5 +13,4 @@
 .quote {
   font-size: 30px;
 }
-
 
